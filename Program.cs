@@ -7,7 +7,9 @@ class Program
     static void Main(string[] args)
     {
         //Exercicio1.exercicio();
-        Exercicio2.exercicio();
+        //Exercicio2.exercicio();
+        //Exercicio3.exercicio();
+        Exercicio4.exercicio();
 
 
 

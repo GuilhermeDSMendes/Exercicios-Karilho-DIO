@@ -10,6 +10,7 @@ class Program
         //Exercicio2.exercicio();
         //Exercicio3.exercicio();
         //Exercicio4.exercicio();
+        //Exercicio5.exercicio();
 
 
 

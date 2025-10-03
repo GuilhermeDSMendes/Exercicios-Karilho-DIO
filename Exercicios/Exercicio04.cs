@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercicios_Karilho_DIO.Exercicios
 {
-    internal class Exercicio4
+    internal class Exercicio04
     {
         public static void exercicio()
         {

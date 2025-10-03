@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Exercicios_Karilho_DIO.Exercicios
 {
-    internal class Exercicio6
+    internal class Exercicio06
     {
         public static void exercicio()
         {
             //6 - Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
 
-            decimal valor;
-            decimal valorAjustado;
+            decimal valor, valorAjustado;
+            
 
             Console.WriteLine("Digite o valor a ser reajustado: ");
             decimal.TryParse(Console.ReadLine(), out valor);

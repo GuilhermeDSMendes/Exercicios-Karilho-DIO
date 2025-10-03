@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercicios_Karilho_DIO.Exercicios
 {
-    internal class Exercicio5
+    internal class Exercicio05
     {
         public static void exercicio() 
         {
@@ -23,7 +23,7 @@ namespace Exercicios_Karilho_DIO.Exercicios
 
             salariosTotal = salario / salarioMinimo;
 
-            Console.WriteLine($"A quantidade de salarios minimo que voce ganha é: {salariosTotal:F3}");
+            Console.WriteLine($"A quantidade de salarios minimo que voce ganha é: {salariosTotal:F2}");
 
         }
     }
